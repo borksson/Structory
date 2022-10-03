@@ -1,0 +1,10 @@
+.Slot{
+    height: 100px;
+    width: 100px;
+    background-color: #282C34;
+    border-style: solid;
+    border-color: #C7C7C7;
+    border-width: 1px;
+    border-radius: 10px;
+    margin: 5px;
+  }

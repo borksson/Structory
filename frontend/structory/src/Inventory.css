@@ -1,0 +1,6 @@
+.Inventory {
+    display: flex;
+    flex-direction: row;
+    background-color: #282C34;
+    justify-content: center;
+}

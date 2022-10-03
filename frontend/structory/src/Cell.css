@@ -1,0 +1,8 @@
+.Cell{
+  height: 80px;
+  width: 80px;
+  background-color: #282C34;
+  border-style: solid;
+  border-color: #C7C7C7;
+  border-width: 2px;
+}
