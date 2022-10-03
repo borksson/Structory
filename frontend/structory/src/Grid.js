@@ -6,7 +6,7 @@ const NUMROWS = 7
 let rows = []
 
 for(let i = 0; i<NUMROWS; i++){
-    rows.push(<Row/>)
+    rows.push(<Row row={i}/>)
 }
 
 function Grid() {

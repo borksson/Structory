@@ -6,7 +6,7 @@ const NUMSLOTS = 8;
 let slots = []
 
 for(let i=0; i<NUMSLOTS; i++){
-    slots.push(<Slot/>);
+    slots.push(<Slot slotNum={i}/>);
 }
 
 function Inventory(){

@@ -1,6 +1,6 @@
 function Title() {
     return (
-        <div className='Title'>
+        <div className='Title' onClick={() => {console.log("Clicked menu.")}}>
             <p className="font-link">Structory</p>
         </div>
     )
